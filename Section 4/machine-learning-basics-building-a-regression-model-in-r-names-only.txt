@@ -1,0 +1,145 @@
+001 Welcome to the course
+001 Welcome to the course
+002 Course contents
+002 Course contents
+002 Course contents
+003 Types of Data
+003 Types of Data
+003 Types of Data
+004 Types of Statistics
+004 Types of Statistics
+004 Types of Statistics
+005 Describing the data graphically
+005 Describing the data graphically
+005 Describing the data graphically
+006 Measures of Centers
+006 Measures of Centers
+006 Measures of Centers
+007 Practice Exercise 1
+008 Measures of Dispersion
+008 Measures of Dispersion
+008 Measures of Dispersion
+009 Practice Exercise 2
+010 Installing R and R studio
+010 Installing R and R studio
+011 Basics of R and R studio
+011 Basics of R and R studio
+012 Packages in R
+012 Packages in R
+013 Inputting data part 1 Inbuilt datasets of R
+013 Inputting data part 1 Inbuilt datasets of R
+014 Inputting data part 2 Manual data entry
+014 Inputting data part 2 Manual data entry
+015 Inputting data part 3 Importing from CSV or Text files
+015 Inputting data part 3 Importing from CSV or Text files
+015 Inputting data part 3 Importing from CSV or Text files
+016 Creating Barplots in R
+016 Creating Barplots in R
+017 Creating Histograms in R
+017 Creating Histograms in R
+018 Introduction to Machine Learning
+018 Introduction to Machine Learning
+018 Introduction to Machine Learning
+019 Building a Machine Learning model
+019 Building a Machine Learning model
+019 Building a Machine Learning model
+020 Gathering Business Knowledge
+020 Gathering Business Knowledge
+020 Gathering Business Knowledge
+021 Data Exploration
+021 Data Exploration
+021 Data Exploration
+022 The Data and the Data Dictionary
+022 The Data and the Data Dictionary
+022 The Data and the Data Dictionary
+022 The Data and the Data Dictionary
+023 Importing the dataset into R
+023 Importing the dataset into R
+023 Importing the dataset into R
+023 Importing the dataset into R
+024 Project Exercise 1
+025 Univariate Analysis and EDD
+025 Univariate Analysis and EDD
+025 Univariate Analysis and EDD
+026 EDD in R
+026 EDD in R
+028 Outlier Treatment
+028 Outlier Treatment
+028 Outlier Treatment
+029 Outlier Treatment in R
+029 Outlier Treatment in R
+031 Missing Value imputation
+031 Missing Value imputation
+031 Missing Value imputation
+032 Missing Value imputation in R
+032 Missing Value imputation in R
+034 Seasonality in Data
+034 Seasonality in Data
+034 Seasonality in Data
+035 Bi-variate Analysis and Variable Transformation
+035 Bi-variate Analysis and Variable Transformation
+035 Bi-variate Analysis and Variable Transformation
+036 Variable transformation in R
+036 Variable transformation in R
+038 Non Usable Variables
+038 Non Usable Variables
+038 Non Usable Variables
+039 Dummy variable creation Handling qualitative data
+039 Dummy variable creation Handling qualitative data
+039 Dummy variable creation Handling qualitative data
+040 Dummy variable creation in R
+040 Dummy variable creation in R
+042 Correlation Matrix and cause-effect relationship
+042 Correlation Matrix and cause-effect relationship
+042 Correlation Matrix and cause-effect relationship
+043 Correlation Matrix in R
+043 Correlation Matrix in R
+045 The problem statement
+045 The problem statement
+045 The problem statement
+046 Basic equations and Ordinary Least Squared (OLS) method
+046 Basic equations and Ordinary Least Squared (OLS) method
+046 Basic equations and Ordinary Least Squared (OLS) method
+047 Assessing Accuracy of predicted coefficients
+047 Assessing Accuracy of predicted coefficients
+047 Assessing Accuracy of predicted coefficients
+048 Assessing Model Accuracy - RSE and R squared
+048 Assessing Model Accuracy - RSE and R squared
+048 Assessing Model Accuracy - RSE and R squared
+049 Simple Linear Regression in R
+049 Simple Linear Regression in R
+051 Multiple Linear Regression
+051 Multiple Linear Regression
+051 Multiple Linear Regression
+052 The F - statistic
+052 The F - statistic
+052 The F - statistic
+053 Interpreting result for categorical Variable
+053 Interpreting result for categorical Variable
+053 Interpreting result for categorical Variable
+054 Multiple Linear Regression in R
+054 Multiple Linear Regression in R
+056 Test-Train split
+056 Test-Train split
+056 Test-Train split
+057 Bias Variance trade-off
+057 Bias Variance trade-off
+057 Bias Variance trade-off
+058 Test-Train Split in R
+058 Test-Train Split in R
+059 Linear models other than OLS
+059 Linear models other than OLS
+059 Linear models other than OLS
+060 Subset Selection techniques
+060 Subset Selection techniques
+060 Subset Selection techniques
+061 Subset selection in R
+061 Subset selection in R
+063 Shrinkage methods - Ridge Regression and The Lasso
+063 Shrinkage methods - Ridge Regression and The Lasso
+063 Shrinkage methods - Ridge Regression and The Lasso
+064 Ridge regression and Lasso in R
+064 Ridge regression and Lasso in R
+065 Heteroscedasticity
+065 Heteroscedasticity
+067 Final Project Exercise
